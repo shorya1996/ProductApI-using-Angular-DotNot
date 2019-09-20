@@ -1,0 +1,14 @@
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll.config
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.pdb
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.pdb
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CopyComplete
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Core\bin\Debug\ProductApi.Core.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Core\bin\Debug\ProductApi.Core.pdb
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.pdb
